@@ -1,8 +1,7 @@
 # Songcun Lab（栓柱AI）
 
 > From village to AGI  
-> 管理学博士 × AI 方法论 × 中年学习者的长期实验室
-
+> > 管理学博士｜非科班 AI 践行者｜记录普通人走向 AGI 的真实路径
 ---
 
 ## 👋 About Me
